@@ -1,6 +1,6 @@
 # Student Management System
 
-A simple web application to manage student details.
+A simple web application to manage student details
 
 ## Technologies
 - HTML
